@@ -1,2 +1,4 @@
-# C3P-Week1-Exo
-Week n°1 - Exercices
+# C3P-Exercices
+
+Week-1 : Counter
+Week-2 : Dice
